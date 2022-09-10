@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<header>
+  <h1>STW-Blog</h1>
+</header>
+{% for post in site.posts %}
+<div id="post-short">
+  <small
+    >{{post.author}} &middot; <i>{{ post.date | date: "%b %-d, %Y" }}</i></small
+  ><br />
+  <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
+    <h3>{{post.title}}</h3>
+  </a>
+  <h4>{{post.subtitle}}</h4>
+  <p>
+    {% if post.excerpt %} {{ post.excerpt }} {% else %} {{ post.content }} {%
+    endif %}
+  </p>
+  <hr />
+</div>
+{% endfor %}
