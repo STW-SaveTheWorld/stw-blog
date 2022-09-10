@@ -27,7 +27,7 @@ My co-founder and I agreed that humanity was hopelessly lost, so we gave up on t
 <u>Let’s try it again</u>
 
 After some frustration in other occupations, we both realised that the concept of being an employee did not really work for us (nor our employers), and we decided to initiate a second attempt at building our own company.
-This blog aims to document our journey from "[We want to build a company](https://www.youtube.com/watch?v=GugsCdLHm-Q&ab_channel=znerky)" to calling ourselves founders and and CxO of .....
+This blog aims to document our journey from "<a href="https://www.youtube.com/watch?v=GugsCdLHm-Q&ab_channel=znerky" target="_blank">We want to build a company</a>" to calling ourselves founders and and CxO of .....
 
 “_How do you find an idea? How do you validate whether your idea is actually relevant? How do you recruit people for initial user interviews where everything you have to offer is a list of questions and a warm smile? What colour should your login button have? Whitespace or Tabs? How do you go from nothing to MVP, and what comes after it? How many commas does a privacy statement have? How long can penguins stay underwater?"_
 
