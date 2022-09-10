@@ -3,7 +3,7 @@ layout: post
 title: "🐧 Initial Commit"
 subtitle: "Accompany us on the journey of founding a company"
 author: Johannes Oster
-date: 2021-09-12
+date: 2021-09-10
 categories: jekyll update
 ---
 
